@@ -11,6 +11,7 @@ Final Grade:   **10 / 10**
 ----
 
 # Iron Kaggle
+*Predict future sales using a supervised learning regression model.*
 
 ## Project Presentation
 
