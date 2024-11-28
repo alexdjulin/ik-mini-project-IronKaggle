@@ -13,6 +13,11 @@ Final Grade:   **10 / 10**
 # Iron Kaggle
 *Predict future sales using a supervised learning regression model.*
 
+## Files
++ **IronKaggle.pdf**: Project description
++ **project_research**: WIP models exploration
++ **mini_project_IronKaggle_delivered.ipynb**: Final delivered solution
+
 ## Project Presentation
 
 LETS COMPETE! Before you jump further, we want you to have an end-to-end experience of solving
