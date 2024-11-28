@@ -34,7 +34,7 @@ information of what happened in that day in that store.
 Real-Life Data (+70k entries): we will also share with you entries without the sales. This will be used (on the
 teachers side) to verify how good your model really is!
 
-## Expected Deliver
+## Expected Delivery
 + “Real-life data set” with an extra column called “sales”, with your predictions (in .csv)
 + An expected value of R2 of performance of your model
 + A 5’ presentation on the choices you did and the road you took
