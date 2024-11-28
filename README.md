@@ -3,6 +3,7 @@
 This project was part of a 9-week training course I attended in 2024.
 - Bootcamp: Ironhack [AI Engineering bootcamp](https://www.ironhack.com/de-en/artificial-intelligence/remote)
 - Date: September to November 2024
+- Teammates: [Monia](https://github.com/babyodacode), [Luis](https://github.com/luislague)
 - Project topics: Machine Learning, Regression and Supervised Models, Scikit-Learn
 
 Final Grade:   **10 / 10**  
