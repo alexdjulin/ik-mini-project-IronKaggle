@@ -11,7 +11,7 @@ Final Grade:   **10 / 10**
 
 ----
 
-# Iron Kaggle
+# Iron Kaggle | Sales Predictions
 Predict future sales using a supervised learning regression model.
 
 <img src="readme/regression_model.png" width=500>
