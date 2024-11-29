@@ -14,6 +14,13 @@ Final Grade:   **10 / 10**
 # Iron Kaggle
 Predict future sales using a supervised learning regression model.
 
+<img src="readme/regression_model.png" width=500>
+
+## Project Results
+In this project, we processed an input dataset of sales history, then explored different ML models to predict future sales results: LinearRegression, RandomForestRegressor (best one) and XBoost. Finally, we did some hyperparameter tuning to push the model's r2 score to **0.941**.  
+
+Final r2 score using the real labels:  **0.916**.
+
 ## Files
 + **IronKaggle.pdf**: Project description
 + **project_research**: WIP models exploration
