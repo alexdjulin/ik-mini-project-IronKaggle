@@ -17,6 +17,7 @@ Final Grade:   **10 / 10**
 + **IronKaggle.pdf**: Project description
 + **project_research**: WIP models exploration
 + **mini_project_IronKaggle_delivered.ipynb**: Final delivered solution
++ **Sales_Prediction_Presentation.pdf**: Presentation slides
 
 ## Project Presentation
 
